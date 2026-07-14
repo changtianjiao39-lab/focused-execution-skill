@@ -1,0 +1,4 @@
+interface:
+  display_name: "Focused Execution Coach"
+  short_description: "Turn complex work into focused, finishable execution"
+  default_prompt: "Use $focused-execution to turn my current task into a focused plan I can start now."
